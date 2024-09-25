@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "64887678796",
+    "project_id": "owlglass-67c50",
+    "storage_bucket": "owlglass-67c50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64887678796:android:6504347841dfa50d39d1e9",
+        "android_client_info": {
+          "package_name": "com.owlglass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64887678796-pt3t9i1f0gibmprgmqhufofa7t1r4gll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.owlglass",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "64887678796-asemn6jp9dks7e55d37ebav0jvq8bfjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZzUa6hWvbFmNq0VUXrufC9N4iSRyXW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64887678796-asemn6jp9dks7e55d37ebav0jvq8bfjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
